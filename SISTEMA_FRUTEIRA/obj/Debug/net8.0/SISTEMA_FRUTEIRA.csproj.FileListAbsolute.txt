@@ -1,0 +1,14 @@
+C:\Users\forge\Desktop\SISTEMA_FRUTEIRA\SISTEMA_FRUTEIRA\bin\Debug\net8.0\SISTEMA_FRUTEIRA.exe
+C:\Users\forge\Desktop\SISTEMA_FRUTEIRA\SISTEMA_FRUTEIRA\bin\Debug\net8.0\SISTEMA_FRUTEIRA.deps.json
+C:\Users\forge\Desktop\SISTEMA_FRUTEIRA\SISTEMA_FRUTEIRA\bin\Debug\net8.0\SISTEMA_FRUTEIRA.runtimeconfig.json
+C:\Users\forge\Desktop\SISTEMA_FRUTEIRA\SISTEMA_FRUTEIRA\bin\Debug\net8.0\SISTEMA_FRUTEIRA.dll
+C:\Users\forge\Desktop\SISTEMA_FRUTEIRA\SISTEMA_FRUTEIRA\bin\Debug\net8.0\SISTEMA_FRUTEIRA.pdb
+C:\Users\forge\Desktop\SISTEMA_FRUTEIRA\SISTEMA_FRUTEIRA\obj\Debug\net8.0\SISTEMA_FRUTEIRA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\forge\Desktop\SISTEMA_FRUTEIRA\SISTEMA_FRUTEIRA\obj\Debug\net8.0\SISTEMA_FRUTEIRA.AssemblyInfoInputs.cache
+C:\Users\forge\Desktop\SISTEMA_FRUTEIRA\SISTEMA_FRUTEIRA\obj\Debug\net8.0\SISTEMA_FRUTEIRA.AssemblyInfo.cs
+C:\Users\forge\Desktop\SISTEMA_FRUTEIRA\SISTEMA_FRUTEIRA\obj\Debug\net8.0\SISTEMA_FRUTEIRA.csproj.CoreCompileInputs.cache
+C:\Users\forge\Desktop\SISTEMA_FRUTEIRA\SISTEMA_FRUTEIRA\obj\Debug\net8.0\SISTEMA_FRUTEIRA.dll
+C:\Users\forge\Desktop\SISTEMA_FRUTEIRA\SISTEMA_FRUTEIRA\obj\Debug\net8.0\refint\SISTEMA_FRUTEIRA.dll
+C:\Users\forge\Desktop\SISTEMA_FRUTEIRA\SISTEMA_FRUTEIRA\obj\Debug\net8.0\SISTEMA_FRUTEIRA.pdb
+C:\Users\forge\Desktop\SISTEMA_FRUTEIRA\SISTEMA_FRUTEIRA\obj\Debug\net8.0\SISTEMA_FRUTEIRA.genruntimeconfig.cache
+C:\Users\forge\Desktop\SISTEMA_FRUTEIRA\SISTEMA_FRUTEIRA\obj\Debug\net8.0\ref\SISTEMA_FRUTEIRA.dll
