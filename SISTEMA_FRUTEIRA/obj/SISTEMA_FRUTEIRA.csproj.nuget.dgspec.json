@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\forge\\Desktop\\SISTEMA_FRUTEIRA\\SISTEMA_FRUTEIRA\\SISTEMA_FRUTEIRA.csproj": {}
+    "C:\\Users\\forge\\Desktop\\ESTUDOS\\PROJETOS C# e .NET\\SISTEMA-FRUTEIRA\\SISTEMA_FRUTEIRA\\SISTEMA_FRUTEIRA.csproj": {}
   },
   "projects": {
-    "C:\\Users\\forge\\Desktop\\SISTEMA_FRUTEIRA\\SISTEMA_FRUTEIRA\\SISTEMA_FRUTEIRA.csproj": {
+    "C:\\Users\\forge\\Desktop\\ESTUDOS\\PROJETOS C# e .NET\\SISTEMA-FRUTEIRA\\SISTEMA_FRUTEIRA\\SISTEMA_FRUTEIRA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\forge\\Desktop\\SISTEMA_FRUTEIRA\\SISTEMA_FRUTEIRA\\SISTEMA_FRUTEIRA.csproj",
+        "projectUniqueName": "C:\\Users\\forge\\Desktop\\ESTUDOS\\PROJETOS C# e .NET\\SISTEMA-FRUTEIRA\\SISTEMA_FRUTEIRA\\SISTEMA_FRUTEIRA.csproj",
         "projectName": "SISTEMA_FRUTEIRA",
-        "projectPath": "C:\\Users\\forge\\Desktop\\SISTEMA_FRUTEIRA\\SISTEMA_FRUTEIRA\\SISTEMA_FRUTEIRA.csproj",
+        "projectPath": "C:\\Users\\forge\\Desktop\\ESTUDOS\\PROJETOS C# e .NET\\SISTEMA-FRUTEIRA\\SISTEMA_FRUTEIRA\\SISTEMA_FRUTEIRA.csproj",
         "packagesPath": "C:\\Users\\forge\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\forge\\Desktop\\SISTEMA_FRUTEIRA\\SISTEMA_FRUTEIRA\\obj\\",
+        "outputPath": "C:\\Users\\forge\\Desktop\\ESTUDOS\\PROJETOS C# e .NET\\SISTEMA-FRUTEIRA\\SISTEMA_FRUTEIRA\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\forge\\AppData\\Roaming\\NuGet\\NuGet.Config",
