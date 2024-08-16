@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SISTEMA_FRUTEIRA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+69596bc28b5a47eee479599662c48fd0c371acd3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c6c9a5abb892b153dffa1dc0c85b551f19de41d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("SISTEMA_FRUTEIRA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SISTEMA_FRUTEIRA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
