@@ -19,7 +19,7 @@ namespace SISTEMA_FRUTEIRA
 
             void Menu()
             {
-                Console.WriteLine("Sistema de Controle de Estoque - Frutamania");
+                Console.WriteLine("Sistema de Controle de Estoque - FRUTAMANIA");
                 Console.WriteLine("--------------------------------------------------");
                 Console.WriteLine("1. Cadastro Nova Fruta");
                 Console.WriteLine("2. Mostrar Frutas Cadastradas");
